@@ -1,0 +1,18 @@
+<Solution>
+  <Folder Name="/API/">
+    <Project Path="SolutionPruebaTecnica.Presentation/SolutionPruebaTecnica.Presentation.csproj" />
+  </Folder>
+  <Folder Name="/Core/" />
+  <Folder Name="/Core/Application/">
+    <Project Path="SolucionPruebaTecnica.Application/SolucionPruebaTecnica.Application.csproj" />
+  </Folder>
+  <Folder Name="/Core/Domain/">
+    <Project Path="SolucionPruebaTecnica.Domain/SolucionPruebaTecnica.Domain.csproj" />
+  </Folder>
+  <Folder Name="/Infrastructure/">
+    <Project Path="SolucionPruebaTecnica.Infrastructure/SolucionPruebaTecnica.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/Test/">
+    <Project Path="SolucionPruebaTecnica.Testing/SolucionPruebaTecnica.Testing.csproj" Id="24e65605-ed2a-4ab4-8126-60708eeb0055" />
+  </Folder>
+</Solution>
