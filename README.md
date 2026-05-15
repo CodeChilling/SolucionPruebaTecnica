@@ -14,6 +14,8 @@ La API recibe un identificador de cliente (`customerId`) y retorna la informaci�
 
 El proyecto sigue una arquitectura por **capas** (Clean Architecture simplificada):
 
+![Arquitectura del Proyecto](architecture-diagram.svg)
+
 ```
 SolucionPruebaTecnica/
 ├── SolutionPruebaTecnica.Presentation/    (API - Capa de Presentación)
